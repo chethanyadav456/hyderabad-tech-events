@@ -1,0 +1,134 @@
+name: Validate Events
+
+on:
+  pull_request:
+    paths:
+      - 'data/events.json'
+  push:
+    paths:
+      - 'data/events.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install jsonschema requests
+      
+      - name: Validate JSON syntax
+        run: |
+          python -c "import json; json.load(open('data/events.json'))"
+      
+      - name: Validate JSON schema
+        run: |
+          cat > validate_schema.py << 'EOF'
+          import json
+          import sys
+          from datetime import datetime
+
+          # Load events
+          with open('data/events.json') as f:
+              events = json.load(f)
+
+          errors = []
+
+          # Validate each event
+          for i, event in enumerate(events):
+              # Check required fields
+              required_fields = ['name', 'link', 'location', 'datetime']
+              for field in required_fields:
+                  if field not in event:
+                      errors.append(f"Event {i}: Missing required field '{field}'")
+              
+              # Validate datetime format
+              if 'datetime' in event:
+                  try:
+                      datetime.strptime(event['datetime'], '%Y-%m-%d %H:%M')
+                  except ValueError:
+                      errors.append(f"Event {i} ({event.get('name', 'unknown')}): Invalid datetime format. Use YYYY-MM-DD HH:MM")
+              
+              # Validate link format
+              if 'link' in event:
+                  if not event['link'].startswith(('http://', 'https://')):
+                      errors.append(f"Event {i} ({event.get('name', 'unknown')}): Link must start with http:// or https://")
+
+          if errors:
+              print("❌ Validation failed:")
+              for error in errors:
+                  print(f"  - {error}")
+              sys.exit(1)
+          else:
+              print(f"✅ All {len(events)} events validated successfully!")
+          EOF
+          python validate_schema.py
+      
+      - name: Check for duplicate events
+        run: |
+          cat > check_duplicates.py << 'EOF'
+          import json
+          import sys
+
+          with open('data/events.json') as f:
+              events = json.load(f)
+
+          # Check for duplicates by name and datetime
+          seen = {}
+          duplicates = []
+
+          for i, event in enumerate(events):
+              key = (event.get('name', '').lower(), event.get('datetime', ''))
+              if key in seen:
+                  duplicates.append(f"Event {i} '{event.get('name')}' is duplicate of event {seen[key]}")
+              else:
+                  seen[key] = i
+
+          if duplicates:
+              print("⚠️  Duplicate events found:")
+              for dup in duplicates:
+                  print(f"  - {dup}")
+              sys.exit(1)
+          else:
+              print(f"✅ No duplicates found among {len(events)} events")
+          EOF
+          python check_duplicates.py
+      
+      - name: Validate links
+        continue-on-error: true
+        run: |
+          cat > validate_links.py << 'EOF'
+          import json
+          import requests
+          import sys
+          from concurrent.futures import ThreadPoolExecutor
+
+          def check_link(event):
+              try:
+                  response = requests.head(event['link'], timeout=10, allow_redirects=True)
+                  if response.status_code >= 400:
+                      return f"❌ {event['name']}: {event['link']} (Status: {response.status_code})"
+                  return f"✅ {event['name']}: OK"
+              except Exception as e:
+                  return f"⚠️  {event['name']}: {event['link']} (Error: {str(e)[:50]})"
+
+          with open('data/events.json') as f:
+              events = json.load(f)
+
+          print(f"Checking {len(events)} event links...")
+          with ThreadPoolExecutor(max_workers=5) as executor:
+              results = list(executor.map(check_link, events))
+
+          for result in results:
+              print(result)
+          EOF
+          pip install requests
+          python validate_links.py

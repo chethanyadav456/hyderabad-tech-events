@@ -1,0 +1,6 @@
+# requirements.txt
+# Python dependencies for generating README
+
+# None required for basic script
+# Uncomment below if you add link validation or other features:
+# requests>=2.31.0

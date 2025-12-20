@@ -1,0 +1,118 @@
+name: Add Event
+description: Submit a new tech event to be added to the Hyderabad events list
+title: "[Event]: "
+labels: ["event-submission"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Add a Tech Event to Hyderabad Events List
+        
+        Thanks for contributing! Please fill out all required fields below.
+        
+        **Note**: Events must be tech-related and located in Hyderabad, India.
+
+  - type: input
+    id: event_name
+    attributes:
+      label: Event Name
+      description: The full name of the event
+      placeholder: "e.g., AI & Machine Learning Meetup"
+    validations:
+      required: true
+
+  - type: input
+    id: event_link
+    attributes:
+      label: Event Link
+      description: URL to the event page (Meetup.com, Eventbrite, official website, etc.)
+      placeholder: "https://www.meetup.com/..."
+    validations:
+      required: true
+
+  - type: input
+    id: event_location
+    attributes:
+      label: Location
+      description: Event location (should be in Hyderabad)
+      placeholder: "Hyderabad, India"
+      value: "Hyderabad, India"
+    validations:
+      required: true
+
+  - type: input
+    id: event_date
+    attributes:
+      label: Date
+      description: Event date in YYYY-MM-DD format
+      placeholder: "2026-01-15"
+    validations:
+      required: true
+
+  - type: input
+    id: event_time
+    attributes:
+      label: Time
+      description: Event time in 24-hour format (HH:MM)
+      placeholder: "18:00"
+    validations:
+      required: true
+
+  - type: textarea
+    id: event_description
+    attributes:
+      label: Event Description (Optional)
+      description: Brief description of the event (for reviewer context)
+      placeholder: "This is a monthly meetup for AI/ML enthusiasts..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: event_category
+    attributes:
+      label: Event Category
+      description: What type of tech event is this?
+      options:
+        - Meetup
+        - Workshop
+        - Conference
+        - Hackathon
+        - Networking
+        - Pitch Event
+        - Webinar
+        - Other
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: Verification
+      description: Please confirm the following
+      options:
+        - label: This event is tech-related
+          required: true
+        - label: This event is located in Hyderabad, India
+          required: true
+        - label: The event link is valid and publicly accessible
+          required: true
+        - label: This event is not already listed in the repository
+          required: true
+        - label: The event is scheduled for a future date
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+        ### What happens next?
+        
+        1. A maintainer will review your submission within 24-48 hours
+        2. If approved, the event will be added to `data/events.json`
+        3. The README will be automatically updated within 24 hours
+        4. You'll be notified when your event is live!
+        
+        Thank you for contributing to the Hyderabad tech community! 🚀

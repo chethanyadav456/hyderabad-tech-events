@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Questions & Discussions
+    url: https://github.com/chethanyadav456/hyderabad-tech-events/discussions
+    about: Ask questions or discuss ideas with the community
+  - name: 📖 Contributing Guidelines
+    url: https://github.com/chethanyadav456/hyderabad-tech-events/blob/main/CONTRIBUTING.md
+    about: Learn how to contribute to this project
