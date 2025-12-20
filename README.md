@@ -21,7 +21,9 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | Beyond Text: Building Multimodal RAG Systems 🌐 | Online | Jan 09 2026, 19:00 - 21:00 | [Click here](https://luma.com/knzoxkv4?tk=cGD08E "Visit event page") |
 | HydPy Pre-PyConf Community Meetup - In Collaboration with Memori | IIIT HYDERABAD | Jan 10 2026, 09:00 - 15:00 | [Click here](https://www.meetup.com/hydpygroup/events/312469507/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | React Hyderabad Meetup #2 | Hyderabad, India | Jan 10 2026, 10:00 | [Click here](https://luma.com/ccsl5lvi?tk=QtJUif "Visit event page") |
+| Offline Community Connect | IndiQube Pearl, Hyderabad, India | Jan 17 2026, 10:30 - 13:30 | [Click here](https://luma.com/27x7t36g?tk=L0dpOW "Visit event page") |
 | Swecha Foundation Day | Swecha Office Free (and Open Source) Software Community Telangana | Feb 09 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/swechafsmi/events/311640231/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
+| PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
 
 ## About This Project
 
@@ -120,4 +122,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-20 18:22:26 UTC
+Last updated: 2025-12-20 18:44:23 UTC
