@@ -3,14 +3,16 @@
         "name": "React Hyderabad Meetup #2",
         "link": "https://luma.com/ccsl5lvi?tk=QtJUif",
         "location": "Hyderabad, India",
-        "datetime": "2026-01-10 10:00"
+        "datetime": "2026-01-10 10:00",
+        "type": "in-person"
     },
     {
         "name": "DevDays Hyderabad - December 2025",
         "link": "https://www.meetup.com/swechafsmi/events/311979191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
         "location": "Swecha Office Free (and Open Source) Software Community Telangana",
         "datetime": "2025-12-21 09:30",
-        "end_time": "2025-12-21 12:00"
+        "end_time": "2025-12-21 12:00",
+        "type": "in-person"
     },
     {
         "name": "Beyond Text: Building Multimodal RAG Systems",
@@ -25,13 +27,23 @@
         "link": "https://www.meetup.com/startuphyderabad/events/312512226/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
         "location": "CoKarma - Coworking Space, Hyderabad, India",
         "datetime": "2025-12-27 18:00",
-        "end_time": "2025-12-27 20:00"
+        "end_time": "2025-12-27 20:00",
+        "type": "in-person"
     },
     {
         "name": "Founders' Fest",
         "link": "https://www.meetup.com/edventure-park/events/312370461/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
         "location": "Public Gardens, Lakdikapul, Hyderabad",
         "datetime": "2025-12-31 12:00",
-        "end_time": "2026-01-21 14:00"
+        "end_time": "2026-01-21 14:00",
+        "type": "in-person"
+    },
+    {
+        "name": "HydPy Pre-PyConf Community Meetup - In Collaboration with Memori",
+        "link": "https://www.meetup.com/hydpygroup/events/312469507/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
+        "location": "IIIT HYDERABAD",
+        "datetime": "2026-01-10 09:00",
+        "end_time": "2026-01-10 15:00",
+        "type": "in-person"
     }
 ]
