@@ -49,6 +49,7 @@ You can contribute events in two ways:
    ```bash
    git push origin add-event-name-here
    ```
+
 8. **Create a Pull Request** on GitHub from your fork to the main repository
 
 ### Method 2: Issue Form (Easiest for Non-Technical Users)

@@ -1,0 +1,20 @@
+# markdownlint-cli2 configuration
+# See: https://github.com/DavidAnson/markdownlint-cli2
+
+config:
+  # Allow inline HTML for centered content and images
+  MD033:
+    allowed_elements:
+      - div
+      - img
+  
+  # Increase line length limit for long links
+  MD013:
+    line_length: 200
+    heading_line_length: 120
+    code_block_line_length: 200
+    tables: false
+
+# Ignore auto-generated README
+ignores:
+  - "README.md"
