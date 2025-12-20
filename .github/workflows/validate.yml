@@ -67,6 +67,11 @@ jobs:
                   except ValueError:
                       errors.append(f"Event {i} ({event.get('name', 'unknown')}): Invalid end_time format. Use YYYY-MM-DD HH:MM")
               
+              # Validate type field (optional)
+              if 'type' in event:
+                  if event['type'] not in ['online', 'in-person']:
+                      errors.append(f"Event {i} ({event.get('name', 'unknown')}): type must be 'online' or 'in-person'")
+              
               # Validate link format
               if 'link' in event:
                   if not event['link'].startswith(('http://', 'https://')):

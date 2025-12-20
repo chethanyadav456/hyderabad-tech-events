@@ -15,7 +15,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
-| DevDays Hyderabad - December 2025 | Swecha Office | Free (and Open Source) Software Community Telangana | Dec 21 2025, 09:30 - 12:00 | [Click here](https://www.meetup.com/swechafsmi/events/311979191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
+| DevDays Hyderabad - December 2025 | Swecha Office Free (and Open Source) Software Community Telangana | Dec 21 2025, 09:30 - 12:00 | [Click here](https://www.meetup.com/swechafsmi/events/311979191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
+| Beyond Text: Building Multimodal RAG Systems 🌐 | Online | Jan 09 2026, 19:00 - 21:00 | [Click here](https://luma.com/knzoxkv4?tk=cGD08E "Visit event page") |
 | React Hyderabad Meetup #2 | Hyderabad, India | Jan 10 2026, 10:00 | [Click here](https://luma.com/ccsl5lvi?tk=QtJUif "Visit event page") |
 
 ## About This Project
@@ -112,4 +113,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-20 16:44:38 UTC
+Last updated: 2025-12-20 22:25:49 UTC

@@ -90,7 +90,8 @@ When editing `data/events.json`, follow this exact format:
   "link": "https://event.website.com/event-page",
   "location": "Hyderabad, India",
   "datetime": "2026-01-15 18:00",
-  "end_time": "2026-01-15 20:00"
+  "end_time": "2026-01-15 20:00",
+  "type": "online"
 }
 ```
 
@@ -103,6 +104,7 @@ When editing `data/events.json`, follow this exact format:
 | `location` | String | City, Country | "Hyderabad, India" | ✅ Yes |
 | `datetime` | String | YYYY-MM-DD HH:MM | "2026-01-15 18:00" | ✅ Yes |
 | `end_time` | String | YYYY-MM-DD HH:MM | "2026-01-15 20:00" | ❌ No |
+| `type` | String | "online" or "in-person" | "online" | ❌ No |
 
 ### Date/Time Format
 

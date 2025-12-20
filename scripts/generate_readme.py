@@ -83,6 +83,10 @@ def generate_readme(events, output_path):
             # Write event rows
             for event in events:
                 name = event['name']
+                event_type = event.get('type', 'in-person')
+                # Add online badge if event is online
+                if event_type == 'online':
+                    name = f"{name} 🌐"
                 link = event['link']
                 location = event['location']
                 end_time = event.get('end_time', None)
