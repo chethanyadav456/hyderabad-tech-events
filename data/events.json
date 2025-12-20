@@ -45,5 +45,13 @@
         "datetime": "2026-01-10 09:00",
         "end_time": "2026-01-10 15:00",
         "type": "in-person"
+    },
+    {
+        "name": "Swecha Foundation Day",
+        "link": "https://www.meetup.com/swechafsmi/events/311640231/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
+        "location": "Swecha Office Free (and Open Source) Software Community Telangana",
+        "datetime": "2026-02-09 09:00",
+        "end_time": "2026-02-09 16:00",
+        "type": "in-person"
     }
 ]
