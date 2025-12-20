@@ -105,7 +105,8 @@ def generate_readme(events, output_path):
         out.write('2. Fill out the form\n')
         out.write('3. Submit!\n\n')
         
-        out.write('#### Option 2: Pull Request (Developers)\n\n')
+        out.write('<details>\n')
+        out.write('<summary><b>Option 2: Pull Request (Developers)</b></summary>\n\n')
         out.write('```bash\n')
         out.write('# Fork, then:\n')
         out.write('git clone https://github.com/YOUR_USERNAME/hyderabad-tech-events.git\n')
@@ -126,6 +127,7 @@ def generate_readme(events, output_path):
         out.write('git commit -m "Add Event: Your Event Name"\n')
         out.write('git push origin add-event\n')
         out.write('```\n\n')
+        out.write('</details>\n\n')
         
         out.write('### Event Criteria\n\n')
         out.write('- ✅ Tech-related (software, AI/ML, startups, cloud, etc.)\n')
