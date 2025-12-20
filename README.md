@@ -1,12 +1,15 @@
 <div align="center">
 
+<img src="hyderabad-logo.png" alt="Hyderabad Logo" width="300">
+
 # Hyderabad Tech Meetups & Startup Events
 
 A curated, community-driven list of tech meetups, startup events, and networking opportunities in Hyderabad, India.
 
 </div>
 
-> **Note:** This list is automatically updated daily and shows only upcoming events.
+> [!NOTE]
+> This list is automatically updated daily and shows only upcoming events.
 
 ## Upcoming Events
 
@@ -108,4 +111,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-20 16:12:58 UTC
+Last updated: 2025-12-20 21:55:11 UTC
