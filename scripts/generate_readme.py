@@ -67,9 +67,9 @@ def generate_readme(events, output_path):
         out.write('<img src="hyderabad-logo.png" alt="Hyderabad Logo" width="300">\n\n')
         out.write('# Hyderabad Tech Meetups & Startup Events\n\n')
         out.write('A curated, community-driven list of tech meetups, startup events, and networking opportunities in Hyderabad, India.\n\n')
-        out.write('</div>\n\n')
         out.write('> [!NOTE]\n')
         out.write('> This list is automatically updated daily and shows only upcoming events.\n\n')
+        out.write('</div>\n\n')
         
         # Write table header
         out.write('## Upcoming Events\n\n')
