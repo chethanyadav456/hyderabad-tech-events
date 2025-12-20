@@ -2,13 +2,13 @@
 
 ### Event Details
 
-**Event Name:** 
+**Event Name:**
 
-**Event Link:** 
+**Event Link:**
 
-**Date/Time:** 
+**Date/Time:**
 
-**Location:** 
+**Location:**
 
 ### Checklist
 
@@ -31,6 +31,7 @@ Please confirm the following before submitting:
 ---
 
 **For Maintainers:**
+
 - [ ] Verified event details
 - [ ] Checked for duplicates
 - [ ] Validated JSON syntax

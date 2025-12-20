@@ -6,7 +6,6 @@ Thank you for your interest in contributing! This guide will help you add tech e
 
 - [How to Add an Event](#how-to-add-an-event)
 - [Event Criteria](#event-criteria)
-- [Contribution Methods](#contribution-methods)
 - [JSON Schema](#json-schema)
 - [Review Process](#review-process)
 - [Code of Conduct](#code-of-conduct)
@@ -19,25 +18,34 @@ You can contribute events in two ways:
 
 1. **Fork the repository** to your GitHub account
 2. **Clone your fork** locally:
+
    ```bash
    git clone https://github.com/YOUR_USERNAME/hyderabad-tech-events.git
    cd hyderabad-tech-events
    ```
+
 3. **Create a new branch**:
+
    ```bash
    git checkout -b add-event-name-here
    ```
+
 4. **Edit `data/events.json`** and add your event following the [JSON schema](#json-schema)
 5. **Test locally** (optional but recommended):
+
    ```bash
    python scripts/generate_readme.py
    ```
+
 6. **Commit your changes**:
+
    ```bash
    git add data/events.json
    git commit -m "Add Event: Your Event Name"
    ```
+
 7. **Push to your fork**:
+
    ```bash
    git push origin add-event-name-here
    ```
@@ -57,11 +65,13 @@ A maintainer will review your submission and add it to the database.
 
 To maintain quality, all events must meet these criteria:
 
-✅ **Tech-Related**: Software development, AI/ML, cloud computing, startups, blockchain, data science, cybersecurity, IoT, or related technologies
+✅ **Tech-Related**: Software development, AI/ML, cloud computing, startups,
+blockchain, data science, cybersecurity, IoT, or related technologies
 
 ✅ **Location**: Must be in Hyderabad or the surrounding metropolitan area, India
 
-✅ **Valid Link**: Must include a working link to the event page (Meetup.com, Eventbrite, official website, etc.)
+✅ **Valid Link**: Must include a working link to the event page
+(Meetup.com, Eventbrite, official website, etc.)
 
 ✅ **Future Date**: Event must be scheduled for a future date (past events are automatically removed)
 
@@ -87,7 +97,7 @@ When editing `data/events.json`, follow this exact format:
 | Field | Type | Format | Example | Required |
 |-------|------|--------|---------|----------|
 | `name` | String | Event title | "AI & ML Meetup" | ✅ Yes |
-| `link` | String | Valid URL | "https://meetup.com/..." | ✅ Yes |
+| `link` | String | Valid URL | "<https://meetup.com/...>" | ✅ Yes |
 | `location` | String | City, Country | "Hyderabad, India" | ✅ Yes |
 | `datetime` | String | YYYY-MM-DD HH:MM | "2026-01-15 18:00" | ✅ Yes |
 
@@ -117,6 +127,7 @@ When editing `data/events.json`, follow this exact format:
 ```
 
 **Important Notes:**
+
 - Maintain valid JSON syntax (commas between entries, proper quotes)
 - Keep events sorted by date (optional, but helpful)
 - Don't add duplicate events (check existing entries first)
@@ -125,7 +136,7 @@ When editing `data/events.json`, follow this exact format:
 
 All contributions go through a review process:
 
-1. **Automated Checks**: 
+1. **Automated Checks**:
    - JSON syntax validation
    - Link validation (checks if URL is accessible)
    - Date format validation
@@ -161,6 +172,7 @@ We are committed to providing a welcoming and inclusive environment. By particip
 - Show empathy towards other community members
 
 **Zero tolerance for**:
+
 - Spam or promotional content unrelated to tech events
 - Harassment or discriminatory language
 - Intentionally submitting false information

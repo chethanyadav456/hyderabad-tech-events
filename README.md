@@ -18,12 +18,14 @@ This repository maintains a crowdsourced list of technology and startup events i
 
 ### Add an Event
 
-**Option 1: GitHub Issue (Easy)**
+#### Option 1: GitHub Issue (Easy)
+
 1. Go to [Issues](../../issues/new/choose) → "Add Event"
 2. Fill out the form
 3. Submit!
 
-**Option 2: Pull Request (Developers)**
+#### Option 2: Pull Request (Developers)
+
 ```bash
 # Fork, then:
 git clone https://github.com/YOUR_USERNAME/hyderabad-tech-events.git
@@ -61,7 +63,7 @@ All submissions are reviewed within 24-48 hours. PRs must pass automated validat
 
 ## Project Structure
 
-```
+```text
 ├── data/events.json           # Event database (edit this!)
 ├── scripts/generate_readme.py # Converts JSON → Markdown
 ├── .github/workflows/         # Auto-update workflows
@@ -71,13 +73,15 @@ All submissions are reviewed within 24-48 hours. PRs must pass automated validat
 └── README.md                  # This file (auto-generated)
 ```
 
-**How it works:** Edit `events.json` → CI validates → Maintainer reviews → Merge → README auto-updates
+**How it works:** Edit `events.json` → CI validates → Maintainer reviews →
+Merge → README auto-updates
 
 ## Community Standards
 
 This project follows GitHub community best practices:
 
-- 📖 [Contributing Guidelines](CONTRIBUTING.md) - Detailed contribution instructions
+- 📖 [Contributing Guidelines](CONTRIBUTING.md) - Detailed contribution
+  instructions
 - 📋 [Code of Conduct](https://github.com/chethanyadav456/hyderabad-tech-events/blob/main/CONTRIBUTING.md#code-of-conduct) - Be respectful and inclusive
 - 🐛 [Issue Templates](.github/ISSUE_TEMPLATE/) - Structured event submissions
 - ✅ [Pull Request Template](.github/pull_request_template.md) - Checklist for contributions
@@ -94,8 +98,9 @@ This project follows GitHub community best practices:
 
 - [@chethanyadav456](https://github.com/chethanyadav456)
 
-Questions? [Open an issue](../../issues) or check our [Contributing Guidelines](CONTRIBUTING.md).
+Questions? [Open an issue](../../issues) or check our
+[Contributing Guidelines](CONTRIBUTING.md).
 
 ---
 
-*Last updated: 2025-12-20 20:48:21 UTC*
+Last updated: 2025-12-20 20:54:03 UTC
