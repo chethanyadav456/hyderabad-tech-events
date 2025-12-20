@@ -1,14 +1,18 @@
-# Hyderabad Tech Meetups & Startup Events 🚀
+<div align="center">
+
+# Hyderabad Tech Meetups & Startup Events
 
 A curated, community-driven list of tech meetups, startup events, and networking opportunities in Hyderabad, India.
+
+</div>
 
 > **Note:** This list is automatically updated daily and shows only upcoming events.
 
 ## Upcoming Events
 
-| Name | Location | Date/Time |
-| ---- | -------- | --------- |
-| [React Hyderabad Meetup #2](https://luma.com/ccsl5lvi?tk=QtJUif) | Hyderabad, India | Jan 10 2026, 10:00 |
+| Name | Location | Date/Time | Link |
+| ---- | -------- | --------- | ---- |
+| React Hyderabad Meetup #2 | Hyderabad, India | Jan 10 2026, 10:00 | [Click here](https://luma.com/ccsl5lvi?tk=QtJUif "Visit event page") |
 
 ## About This Project
 
@@ -37,7 +41,8 @@ git checkout -b add-event
   "name": "Your Event Name",
   "link": "https://event-url.com",
   "location": "Hyderabad, India",
-  "datetime": "2026-01-20 18:00"
+  "datetime": "2026-01-20 18:00",
+  "end_time": "2026-01-20 20:00"  # Optional
 }
 
 # Test locally (optional)
@@ -103,4 +108,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-20 15:24:41 UTC
+Last updated: 2025-12-20 21:41:27 UTC

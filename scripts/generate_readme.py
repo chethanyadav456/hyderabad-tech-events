@@ -37,15 +37,25 @@ def filter_upcoming_events(events):
 
 
 def sort_events(events):
-    """Sort events by datetime."""
-    return sorted(events, key=lambda x: parse_datetime(x['datetime']) or datetime.max)
+    """Sort events by datetime (closest to today first)."""
+    now = datetime.now()
+    return sorted(events, key=lambda x: abs((parse_datetime(x['datetime']) or now) - now))
 
 
-def format_datetime(dt_string):
+def format_datetime(dt_string, end_time_string=None):
     """Format datetime string for display."""
     dt = parse_datetime(dt_string)
     if dt:
-        return dt.strftime('%b %d %Y, %H:%M')
+        formatted_start = dt.strftime('%b %d %Y, %H:%M')
+        if end_time_string:
+            end_dt = parse_datetime(end_time_string)
+            if end_dt:
+                # If same date, only show end time
+                if dt.date() == end_dt.date():
+                    formatted_start += f" - {end_dt.strftime('%H:%M')}"
+                else:
+                    formatted_start += f" - {end_dt.strftime('%b %d %Y, %H:%M')}"
+        return formatted_start
     return dt_string
 
 
@@ -53,8 +63,10 @@ def generate_readme(events, output_path):
     """Generate README.md from events data."""
     with open(output_path, 'w', encoding='utf-8') as out:
         # Write header
-        out.write('# Hyderabad Tech Meetups & Startup Events 🚀\n\n')
+        out.write('<div align="center">\n\n')
+        out.write('# Hyderabad Tech Meetups & Startup Events\n\n')
         out.write('A curated, community-driven list of tech meetups, startup events, and networking opportunities in Hyderabad, India.\n\n')
+        out.write('</div>\n\n')
         out.write('> **Note:** This list is automatically updated daily and shows only upcoming events.\n\n')
         
         # Write table header
@@ -63,16 +75,17 @@ def generate_readme(events, output_path):
         if not events:
             out.write('*No upcoming events at the moment. Check back soon or [contribute an event](CONTRIBUTING.md)!*\n\n')
         else:
-            out.write('| Name | Location | Date/Time |\n')
-            out.write('| ---- | -------- | --------- |\n')
+            out.write('| Name | Location | Date/Time | Link |\n')
+            out.write('| ---- | -------- | --------- | ---- |\n')
             
             # Write event rows
             for event in events:
                 name = event['name']
                 link = event['link']
                 location = event['location']
-                datetime_formatted = format_datetime(event['datetime'])
-                out.write(f'| [{name}]({link}) | {location} | {datetime_formatted} |\n')
+                end_time = event.get('end_time', None)
+                datetime_formatted = format_datetime(event['datetime'], end_time)
+                out.write(f'| {name} | {location} | {datetime_formatted} | [Click here]({link} "Visit event page") |\n')
         
         # Write footer
         out.write('\n## About This Project\n\n')
@@ -97,7 +110,8 @@ def generate_readme(events, output_path):
         out.write('  "name": "Your Event Name",\n')
         out.write('  "link": "https://event-url.com",\n')
         out.write('  "location": "Hyderabad, India",\n')
-        out.write('  "datetime": "2026-01-20 18:00"\n')
+        out.write('  "datetime": "2026-01-20 18:00",\n')
+        out.write('  "end_time": "2026-01-20 20:00"  # Optional\n')
         out.write('}\n\n')
         out.write('# Test locally (optional)\n')
         out.write('python3 scripts/generate_readme.py\n\n')

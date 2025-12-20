@@ -88,7 +88,8 @@ When editing `data/events.json`, follow this exact format:
   "name": "Event Name",
   "link": "https://event.website.com/event-page",
   "location": "Hyderabad, India",
-  "datetime": "2026-01-15 18:00"
+  "datetime": "2026-01-15 18:00",
+  "end_time": "2026-01-15 20:00"
 }
 ```
 
@@ -100,19 +101,24 @@ When editing `data/events.json`, follow this exact format:
 | `link` | String | Valid URL | "<https://meetup.com/...>" | ✅ Yes |
 | `location` | String | City, Country | "Hyderabad, India" | ✅ Yes |
 | `datetime` | String | YYYY-MM-DD HH:MM | "2026-01-15 18:00" | ✅ Yes |
+| `end_time` | String | YYYY-MM-DD HH:MM | "2026-01-15 20:00" | ❌ No |
 
 ### Date/Time Format
 
 - **Format**: `YYYY-MM-DD HH:MM` (24-hour format)
 - **Timezone**: IST (Indian Standard Time) assumed
-- **Example**: `2026-01-15 18:00` means January 15, 2026 at 6:00 PM IST
+- **Start Time**: `datetime` - Required, when the event starts
+- **End Time**: `end_time` - Optional, when the event ends
+- **Example**: `"datetime": "2026-01-15 18:00", "end_time": "2026-01-15 20:00"`
+  means January 15, 2026 from 6:00 PM to 8:00 PM IST
 
 ### Complete Example
 
 ```json
 [
   {
-    "name": "Hyderabad Python Developers Meetup",
+    "name": "Hyderabad Python Deve,
+    "end_time": "2026-02-01 21:00"lopers Meetup",
     "link": "https://www.meetup.com/hyderabad-python/events/12345/",
     "location": "Hyderabad, India",
     "datetime": "2026-02-01 18:30"

@@ -57,6 +57,16 @@ jobs:
                   except ValueError:
                       errors.append(f"Event {i} ({event.get('name', 'unknown')}): Invalid datetime format. Use YYYY-MM-DD HH:MM")
               
+              # Validate end_time format (optional field)
+              if 'end_time' in event:
+                  try:
+                      end_dt = datetime.strptime(event['end_time'], '%Y-%m-%d %H:%M')
+                      start_dt = datetime.strptime(event['datetime'], '%Y-%m-%d %H:%M')
+                      if end_dt <= start_dt:
+                          errors.append(f"Event {i} ({event.get('name', 'unknown')}): end_time must be after datetime")
+                  except ValueError:
+                      errors.append(f"Event {i} ({event.get('name', 'unknown')}): Invalid end_time format. Use YYYY-MM-DD HH:MM")
+              
               # Validate link format
               if 'link' in event:
                   if not event['link'].startswith(('http://', 'https://')):
