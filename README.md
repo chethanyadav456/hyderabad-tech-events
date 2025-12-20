@@ -6,10 +6,10 @@
 
 A curated, community-driven list of tech meetups, startup events, and networking opportunities in Hyderabad, India.
 
+</div>
+
 > [!NOTE]
 > This list is automatically updated daily and shows only upcoming events.
-
-</div>
 
 ## Upcoming Events
 
@@ -111,4 +111,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-20 21:56:42 UTC
+Last updated: 2025-12-20 21:57:39 UTC
