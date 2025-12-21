@@ -68,6 +68,7 @@ def generate_readme(events, output_path):
         out.write('# Hyderabad Tech Meetups & Startup Events\n\n')
         out.write('A curated, community-driven list of tech meetups, startup events, and networking opportunities in Hyderabad, India.\n\n')
         out.write('</div>\n\n')
+        out.write('**⭐ Support this project by giving it a star and sharing it with the Hyderabad tech community!**\n\n')
         out.write('> [!NOTE]\n')
         out.write('> This list is automatically updated daily and shows only upcoming events.\n\n')
         
