@@ -8,6 +8,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 </div>
 
+**⭐ Support this project by giving it a star and sharing it with the Hyderabad tech community!**
+
 > [!NOTE]
 > This list is automatically updated daily and shows only upcoming events.
 
@@ -15,7 +17,6 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
-| DevDays Hyderabad - December 2025 | Swecha Office Free (and Open Source) Software Community Telangana | Dec 21 2025, 09:30 - 12:00 | [Click here](https://www.meetup.com/swechafsmi/events/311979191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | eChai Startup Demo Day in Hyderabad: December Edition | CoKarma - Coworking Space, Hyderabad, India | Dec 27 2025, 18:00 - 20:00 | [Click here](https://www.meetup.com/startuphyderabad/events/312512226/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Founders' Fest | Public Gardens, Lakdikapul, Hyderabad | Dec 31 2025, 12:00 - Jan 21 2026, 14:00 | [Click here](https://www.meetup.com/edventure-park/events/312370461/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Beyond Text: Building Multimodal RAG Systems 🌐 | Online | Jan 09 2026, 19:00 - 21:00 | [Click here](https://luma.com/knzoxkv4?tk=cGD08E "Visit event page") |
@@ -122,4 +123,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-21 00:32:05 UTC
+Last updated: 2025-12-21 16:44:15 UTC
