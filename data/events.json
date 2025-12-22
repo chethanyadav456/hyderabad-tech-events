@@ -69,5 +69,12 @@
         "datetime": "2026-01-17 10:30",
         "end_time": "2026-01-17 13:30",
         "type": "in-person"
+    },
+    {
+        "name": "Hello Intelligence 2026 by Microsoft AI Innovators Hub",
+        "link": "https://forms.cloud.microsoft/r/9WU4n5xDek",
+        "location": "Microsoft Campus, Building 4, Gachibowli, Hyderabad, Telangana",
+        "datetime": "2026-01-10 09:00",
+        "type": "in-person"
     }
 ]
