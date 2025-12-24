@@ -76,5 +76,45 @@
         "location": "Microsoft Campus, Building 4, Gachibowli, Hyderabad, Telangana",
         "datetime": "2026-01-10 09:00",
         "type": "in-person"
+    },
+    {
+        "name": "The Hyderabad Design Townhall: From Community to Ecosystem",
+        "link": "https://luma.com/dn0v21pb",
+        "location": "Online/Offline - Hyderabad (TBA)",
+        "datetime": "2026-01-31 10:00",
+        "end_time": "2026-01-31 14:00",
+        "type": "hybrid"
+    },
+    {
+        "name": "YANC Discover Meetup",
+        "link": "https://luma.com/3ajf2wk8?tk=EqF68Q",
+        "location": "7th Floor, Tower 100, RMZ Spire (beside ITC Kohinoor), Hi-Tech City",
+        "datetime": "2025-12-27 10:00",
+        "end_time": "2025-12-27 13:00",
+        "type": "in-person"
+    },
+    {
+        "name": "The Founders Circle Meet-up",
+        "link": "https://luma.com/zm7gpp7k?tk=LW3exP",
+        "location": "To Be Announced",
+        "datetime": "2025-12-28 17:00",
+        "end_time": "2025-12-28 20:00",
+        "type": "in-person"
+    },
+    {
+        "name": "GrabChai Hyderabad:Hands-on AI Product Workshop",
+        "link": "https://luma.com/1n82uz6s?tk=jaGASx",
+        "location": "Draper Startup House, Rajiv Gandhi Nagar, Gachibowli",
+        "datetime": "2026-01-24 14:00",
+        "end_time": "2026-01-24 16:00",
+        "type": "in-person"
+    },
+    {
+        "name": "ISB HEALTHCARE CATALYST",
+        "link": "https://luma.com/mvd32m4m?tk=DgFvKL",
+        "location": "Indian School of Business, Gachibowli",
+        "datetime": "2026-01-10 17:00",
+        "end_time": "2026-01-10 20:00",
+        "type": "in-person"
     }
 ]
