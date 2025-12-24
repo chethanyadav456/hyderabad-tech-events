@@ -10,6 +10,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 **⭐ Support this project by giving it a star and sharing it with the Hyderabad tech community!**
 
+**📢 Join our [Telegram Channel](https://t.me/eventshyderabad) (@eventshyderabad) to get instantly notified whenever a new event is created/hosted!**
+
 > [!NOTE]
 > This list is automatically updated daily and shows only upcoming events.
 
@@ -21,6 +23,7 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | eChai Startup Demo Day in Hyderabad: December Edition | CoKarma - Coworking Space, Hyderabad, India | Dec 27 2025, 18:00 - 20:00 | [Click here](https://www.meetup.com/startuphyderabad/events/312512226/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | The Founders Circle Meet-up | To Be Announced | Dec 28 2025, 17:00 - 20:00 | [Click here](https://luma.com/zm7gpp7k?tk=LW3exP "Visit event page") |
 | Founders' Fest | Public Gardens, Lakdikapul, Hyderabad | Dec 31 2025, 12:00 - 14:00 | [Click here](https://www.meetup.com/edventure-park/events/312370461/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
+| Beyond Containers: The WebAssembly on Kubernetes Deep Dive | To Be Announced | Jan 03 2026, 10:00 - 13:00 | [Click here](https://www.meetup.com/kubernetes-over-koffee/events/312520940/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Beyond Text: Building Multimodal RAG Systems 🌐 | Online | Jan 09 2026, 19:00 - 21:00 | [Click here](https://luma.com/knzoxkv4?tk=cGD08E "Visit event page") |
 | HydPy Pre-PyConf Community Meetup - In Collaboration with Memori | IIIT HYDERABAD | Jan 10 2026, 09:00 - 15:00 | [Click here](https://www.meetup.com/hydpygroup/events/312469507/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Hello Intelligence 2026 by Microsoft AI Innovators Hub | Microsoft Campus, Building 4, Gachibowli, Hyderabad, Telangana | Jan 10 2026, 09:00 | [Click here](https://forms.cloud.microsoft/r/9WU4n5xDek "Visit event page") |
@@ -44,16 +47,16 @@ Connect with these amazing tech communities in Hyderabad:
 
 | Community | Type | Description | Link |
 | --------- | ---- | ----------- | ---- |
-| HydPy - Hyderabad Python Users Group | Programming Language | Python enthusiasts community in Hyderabad. Regular meetups, workshops, and conferences focused on Python programming. | [Visit](https://www.meetup.com/hydpygroup/ "Visit community page") |
-| React Hyderabad | Programming Language | Community of React developers in Hyderabad. Meetups covering React, Next.js, and modern web development. | [Visit](https://www.meetup.com/react-hyderabad/ "Visit community page") |
-| Startup Hyderabad | Startup/Entrepreneurship | Community for entrepreneurs, founders, and startup enthusiasts in Hyderabad. Networking events, demo days, and startup resources. | [Visit](https://www.meetup.com/startuphyderabad/ "Visit community page") |
-| Swecha | Open Source | Free and Open Source Software community in Telangana. Promoting FOSS adoption and digital literacy. | [Visit](https://www.meetup.com/swechafsmi/ "Visit community page") |
+| HydPy - Hyderabad Python Users Group | Programming Language | Python enthusiasts community in Hyderabad. Regular meetups, workshops, and conferences focused on Python programming. | [Visit](https://www.hydpy.org/ "Visit community page") |
+| React Hyderabad | Programming Language | Community of React developers in Hyderabad. Meetups covering React, Next.js, and modern web development. | [Visit](https://reacthyderabad.com/ "Visit community page") |
+| eChai Startup Hyderabad | Startup/Entrepreneurship | Community for entrepreneurs, founders, and startup enthusiasts in Hyderabad. Networking events, demo days, and startup resources. | [Visit](https://www.meetup.com/startuphyderabad/ "Visit community page") |
+| Swecha | Open Source | Free and Open Source Software community in Telangana. Promoting FOSS adoption and digital literacy. | [Visit](https://www.swecha.org/ "Visit community page") |
 | Google Developer Groups Hyderabad | General Tech | Community of developers interested in Google technologies. Events on Android, Web, Cloud, and Machine Learning. | [Visit](https://gdg.community.dev/gdg-hyderabad/ "Visit community page") |
-| Hyderabad.AI | AI/ML | AI and Machine Learning community in Hyderabad. Workshops, talks, and projects on AI/ML technologies. | [Visit](https://www.meetup.com/hyderabadai/ "Visit community page") |
-| AWS User Group Hyderabad | Cloud Computing | Community for AWS enthusiasts and professionals. Regular meetups on cloud computing and AWS services. | [Visit](https://www.meetup.com/hyderabad-aws-user-group/ "Visit community page") |
-| Hyderabad JavaScript | Programming Language | JavaScript developers community. Meetups covering JavaScript, Node.js, and modern web frameworks. | [Visit](https://www.meetup.com/javascript-hyderabad/ "Visit community page") |
-| Data Science Hyderabad | Data Science | Community for data science professionals and enthusiasts. Events on data analytics, visualization, and big data. | [Visit](https://www.meetup.com/data-science-hyderabad/ "Visit community page") |
-| Kubernetes Hyderabad | DevOps/Cloud | Cloud-native and Kubernetes community. Meetups on container orchestration, DevOps, and cloud infrastructure. | [Visit](https://www.meetup.com/kubernetes-hyderabad/ "Visit community page") |
+| Hyderabad Artificial Intelligence Group | AI/ML | AI and Machine Learning community in Hyderabad. Workshops, talks, and projects on AI/ML technologies. | [Visit](https://www.meetup.com/hyderabad-artificial-intelligence-meetup-group/ "Visit community page") |
+| AWS User Group Hyderabad | Cloud Computing | Community for AWS enthusiasts and professionals. Regular meetups on cloud computing and AWS services. | [Visit](https://awsughyd.com/ "Visit community page") |
+| Hyderabad JavaScript | Programming Language | JavaScript developers community. Meetups covering JavaScript, Node.js, and modern web frameworks. | [Visit](https://www.meetup.com/hyderabad-javascript/ "Visit community page") |
+| Data Scientists Hyderabad | Data Science | Community for data science professionals and enthusiasts. Events on data analytics, visualization, and big data. | [Visit](https://www.meetup.com/data-scientists-hyderabad/ "Visit community page") |
+| Kubernetes Over Koffee ☕ | DevOps/Cloud | Cloud-native and Kubernetes community. Meetups on container orchestration, DevOps, and cloud infrastructure. | [Visit](https://www.meetup.com/kubernetes-over-koffee/ "Visit community page") |
 
 ## About This Project
 
@@ -152,4 +155,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-24 22:28:36 UTC
+Last updated: 2025-12-24 22:44:03 UTC
