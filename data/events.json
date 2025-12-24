@@ -116,5 +116,13 @@
         "datetime": "2026-01-10 17:00",
         "end_time": "2026-01-10 20:00",
         "type": "in-person"
+    },
+    {
+        "name": "Beyond Containers: The WebAssembly on Kubernetes Deep Dive",
+        "link": "https://www.meetup.com/kubernetes-over-koffee/events/312520940/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
+        "location": "To Be Announced",
+        "datetime": "2026-01-03 10:00",
+        "end_time": "2026-01-03 13:00",
+        "type": "in-person"
     }
 ]

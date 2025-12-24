@@ -91,6 +91,7 @@ def generate_readme(events, past_events, communities, output_path):
         out.write('A curated, community-driven list of tech meetups, startup events, and networking opportunities in Hyderabad, India.\n\n')
         out.write('</div>\n\n')
         out.write('**⭐ Support this project by giving it a star and sharing it with the Hyderabad tech community!**\n\n')
+        out.write('**📢 Join our [Telegram Channel](https://t.me/eventshyderabad) (@eventshyderabad) to get instantly notified whenever a new event is created/hosted!**\n\n')
         out.write('> [!NOTE]\n')
         out.write('> This list is automatically updated daily and shows only upcoming events.\n\n')
         
