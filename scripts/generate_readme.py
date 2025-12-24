@@ -36,6 +36,28 @@ def filter_upcoming_events(events):
     return upcoming
 
 
+def filter_past_events(events):
+    """Filter events to only include past ones."""
+    now = datetime.now()
+    past = []
+    
+    for event in events:
+        dt = parse_datetime(event['datetime'])
+        if dt and dt < now:
+            past.append(event)
+    
+    return past
+
+
+def load_communities(json_path):
+    """Load communities from JSON file."""
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return []
+
+
 def sort_events(events):
     """Sort events by datetime (closest to today first)."""
     now = datetime.now()
@@ -59,7 +81,7 @@ def format_datetime(dt_string, end_time_string=None):
     return dt_string
 
 
-def generate_readme(events, output_path):
+def generate_readme(events, past_events, communities, output_path):
     """Generate README.md from events data."""
     with open(output_path, 'w', encoding='utf-8') as out:
         # Write header
@@ -93,6 +115,52 @@ def generate_readme(events, output_path):
                 end_time = event.get('end_time', None)
                 datetime_formatted = format_datetime(event['datetime'], end_time)
                 out.write(f'| {name} | {location} | {datetime_formatted} | [Click here]({link} "Visit event page") |\n')
+        
+        # Write Past Events section
+        out.write('\n## Past Events\n\n')
+        
+        if not past_events:
+            out.write('*No past events recorded yet.*\n\n')
+        else:
+            # Sort past events by date (most recent first)
+            sorted_past = sorted(past_events, key=lambda x: parse_datetime(x['datetime']) or datetime.min, reverse=True)
+            # Limit to last 10 past events
+            limited_past = sorted_past[:10]
+            
+            out.write('| Name | Location | Date/Time | Link |\n')
+            out.write('| ---- | -------- | --------- | ---- |\n')
+            
+            for event in limited_past:
+                name = event['name']
+                event_type = event.get('type', 'in-person')
+                if event_type == 'online':
+                    name = f"{name} 🌐"
+                link = event['link']
+                location = event['location']
+                end_time = event.get('end_time', None)
+                datetime_formatted = format_datetime(event['datetime'], end_time)
+                out.write(f'| {name} | {location} | {datetime_formatted} | [Click here]({link} "Visit event page") |\n')
+            
+            if len(sorted_past) > 10:
+                out.write(f'\n*Showing 10 most recent events. Total past events: {len(sorted_past)}*\n')
+        
+        # Write Communities section
+        out.write('\n## Hyderabad Tech/Startup Communities\n\n')
+        
+        if not communities:
+            out.write('*Community list coming soon!*\n\n')
+        else:
+            out.write('Connect with these amazing tech communities in Hyderabad:\n\n')
+            out.write('| Community | Type | Description | Link |\n')
+            out.write('| --------- | ---- | ----------- | ---- |\n')
+            
+            for community in communities:
+                name = community['name']
+                description = community.get('description', '')
+                link = community['link']
+                community_type = community.get('type', 'general')
+                
+                out.write(f'| {name} | {community_type} | {description} | [Visit]({link} "Visit community page") |\n')
         
         # Write footer
         out.write('\n## About This Project\n\n')
@@ -189,6 +257,7 @@ def main():
     repo_root = script_dir.parent
     
     json_path = repo_root / 'data' / 'events.json'
+    communities_path = repo_root / 'data' / 'communities.json'
     output_path = repo_root / 'README.md'
     
     # Load and process events
@@ -200,12 +269,21 @@ def main():
     upcoming = filter_upcoming_events(events)
     print(f"Found {len(upcoming)} upcoming events")
     
+    # Filter past events
+    past = filter_past_events(events)
+    print(f"Found {len(past)} past events")
+    
     # Sort by date
     sorted_events = sort_events(upcoming)
     
+    # Load communities
+    print(f"Loading communities from {communities_path}...")
+    communities = load_communities(communities_path)
+    print(f"Loaded {len(communities)} communities")
+    
     # Generate README
     print(f"Generating {output_path}...")
-    generate_readme(sorted_events, output_path)
+    generate_readme(sorted_events, past, communities, output_path)
     print("✓ README.md generated successfully!")
 
 

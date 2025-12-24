@@ -1,0 +1,62 @@
+[
+    {
+        "name": "HydPy - Hyderabad Python Users Group",
+        "description": "Python enthusiasts community in Hyderabad. Regular meetups, workshops, and conferences focused on Python programming.",
+        "link": "https://www.meetup.com/hydpygroup/",
+        "type": "Programming Language"
+    },
+    {
+        "name": "React Hyderabad",
+        "description": "Community of React developers in Hyderabad. Meetups covering React, Next.js, and modern web development.",
+        "link": "https://www.meetup.com/react-hyderabad/",
+        "type": "Programming Language"
+    },
+    {
+        "name": "Startup Hyderabad",
+        "description": "Community for entrepreneurs, founders, and startup enthusiasts in Hyderabad. Networking events, demo days, and startup resources.",
+        "link": "https://www.meetup.com/startuphyderabad/",
+        "type": "Startup/Entrepreneurship"
+    },
+    {
+        "name": "Swecha",
+        "description": "Free and Open Source Software community in Telangana. Promoting FOSS adoption and digital literacy.",
+        "link": "https://www.meetup.com/swechafsmi/",
+        "type": "Open Source"
+    },
+    {
+        "name": "Google Developer Groups Hyderabad",
+        "description": "Community of developers interested in Google technologies. Events on Android, Web, Cloud, and Machine Learning.",
+        "link": "https://gdg.community.dev/gdg-hyderabad/",
+        "type": "General Tech"
+    },
+    {
+        "name": "Hyderabad.AI",
+        "description": "AI and Machine Learning community in Hyderabad. Workshops, talks, and projects on AI/ML technologies.",
+        "link": "https://www.meetup.com/hyderabadai/",
+        "type": "AI/ML"
+    },
+    {
+        "name": "AWS User Group Hyderabad",
+        "description": "Community for AWS enthusiasts and professionals. Regular meetups on cloud computing and AWS services.",
+        "link": "https://www.meetup.com/hyderabad-aws-user-group/",
+        "type": "Cloud Computing"
+    },
+    {
+        "name": "Hyderabad JavaScript",
+        "description": "JavaScript developers community. Meetups covering JavaScript, Node.js, and modern web frameworks.",
+        "link": "https://www.meetup.com/javascript-hyderabad/",
+        "type": "Programming Language"
+    },
+    {
+        "name": "Data Science Hyderabad",
+        "description": "Community for data science professionals and enthusiasts. Events on data analytics, visualization, and big data.",
+        "link": "https://www.meetup.com/data-science-hyderabad/",
+        "type": "Data Science"
+    },
+    {
+        "name": "Kubernetes Hyderabad",
+        "description": "Cloud-native and Kubernetes community. Meetups on container orchestration, DevOps, and cloud infrastructure.",
+        "link": "https://www.meetup.com/kubernetes-hyderabad/",
+        "type": "DevOps/Cloud"
+    }
+]
