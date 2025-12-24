@@ -32,6 +32,29 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | Swecha Foundation Day | Swecha Office Free (and Open Source) Software Community Telangana | Feb 09 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/swechafsmi/events/311640231/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
 
+## Past Events
+
+| Name | Location | Date/Time | Link |
+| ---- | -------- | --------- | ---- |
+| DevDays Hyderabad - December 2025 | Swecha Office Free (and Open Source) Software Community Telangana | Dec 21 2025, 09:30 - 12:00 | [Click here](https://www.meetup.com/swechafsmi/events/311979191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
+
+## Hyderabad Tech/Startup Communities
+
+Connect with these amazing tech communities in Hyderabad:
+
+| Community | Type | Description | Link |
+| --------- | ---- | ----------- | ---- |
+| HydPy - Hyderabad Python Users Group | Programming Language | Python enthusiasts community in Hyderabad. Regular meetups, workshops, and conferences focused on Python programming. | [Visit](https://www.meetup.com/hydpygroup/ "Visit community page") |
+| React Hyderabad | Programming Language | Community of React developers in Hyderabad. Meetups covering React, Next.js, and modern web development. | [Visit](https://www.meetup.com/react-hyderabad/ "Visit community page") |
+| Startup Hyderabad | Startup/Entrepreneurship | Community for entrepreneurs, founders, and startup enthusiasts in Hyderabad. Networking events, demo days, and startup resources. | [Visit](https://www.meetup.com/startuphyderabad/ "Visit community page") |
+| Swecha | Open Source | Free and Open Source Software community in Telangana. Promoting FOSS adoption and digital literacy. | [Visit](https://www.meetup.com/swechafsmi/ "Visit community page") |
+| Google Developer Groups Hyderabad | General Tech | Community of developers interested in Google technologies. Events on Android, Web, Cloud, and Machine Learning. | [Visit](https://gdg.community.dev/gdg-hyderabad/ "Visit community page") |
+| Hyderabad.AI | AI/ML | AI and Machine Learning community in Hyderabad. Workshops, talks, and projects on AI/ML technologies. | [Visit](https://www.meetup.com/hyderabadai/ "Visit community page") |
+| AWS User Group Hyderabad | Cloud Computing | Community for AWS enthusiasts and professionals. Regular meetups on cloud computing and AWS services. | [Visit](https://www.meetup.com/hyderabad-aws-user-group/ "Visit community page") |
+| Hyderabad JavaScript | Programming Language | JavaScript developers community. Meetups covering JavaScript, Node.js, and modern web frameworks. | [Visit](https://www.meetup.com/javascript-hyderabad/ "Visit community page") |
+| Data Science Hyderabad | Data Science | Community for data science professionals and enthusiasts. Events on data analytics, visualization, and big data. | [Visit](https://www.meetup.com/data-science-hyderabad/ "Visit community page") |
+| Kubernetes Hyderabad | DevOps/Cloud | Cloud-native and Kubernetes community. Meetups on container orchestration, DevOps, and cloud infrastructure. | [Visit](https://www.meetup.com/kubernetes-hyderabad/ "Visit community page") |
+
 ## About This Project
 
 This repository maintains a crowdsourced list of technology and startup events in Hyderabad. The event list is automatically updated daily from our [events database](data/events.json).
@@ -129,4 +152,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-24 22:21:32 UTC
+Last updated: 2025-12-24 22:28:36 UTC
