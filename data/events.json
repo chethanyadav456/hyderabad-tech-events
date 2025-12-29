@@ -124,5 +124,29 @@
         "datetime": "2026-01-03 10:00",
         "end_time": "2026-01-03 13:00",
         "type": "in-person"
+    },
+    {
+        "name": "Multicloud AIWorld 2026",
+        "link": "https://www.aioug.org/mc/2026/hyd",
+        "location": "Tech Mahindra Learning World, Hyderabad, India",
+        "datetime": "2026-02-07 08:00",
+        "end_time": "2026-02-07 18:00",
+        "type": "in-person"
+    },
+    {
+        "name": "Hyderabad Startup Meetup - eChai Ventures",
+        "link": "https://www.meetup.com/startuphyderabad/events/312608357/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
+        "location": "Draper Startup House, Hyderabad, India",
+        "datetime": "2026-01-03 18:00",
+        "end_time": "2026-01-03 20:00",
+        "type": "in-person"
+    },
+    {
+        "name": "eChai Startup Demo Day in Hyderabad: January Edition",
+        "link": "https://echai.ventures/events/echai-startup-demo-day-in-hyderabad-january-edition-jan-31-2026",
+        "location": "CoKarma - Coworking Space, Hyderabad, India",
+        "datetime": "2026-01-31 18:00",
+        "end_time": "2026-01-31 20:00",
+        "type": "in-person"
     }
 ]
