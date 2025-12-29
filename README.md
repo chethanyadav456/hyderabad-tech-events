@@ -21,6 +21,7 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | ---- | -------- | --------- | ---- |
 | Founders' Fest | Public Gardens, Lakdikapul, Hyderabad | Dec 31 2025, 12:00 - 14:00 | [Click here](https://www.meetup.com/edventure-park/events/312370461/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Beyond Containers: The WebAssembly on Kubernetes Deep Dive | To Be Announced | Jan 03 2026, 10:00 - 13:00 | [Click here](https://www.meetup.com/kubernetes-over-koffee/events/312520940/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
+| Hyderabad Startup Meetup - eChai Ventures | Draper Startup House, Hyderabad, India | Jan 03 2026, 18:00 - 20:00 | [Click here](https://www.meetup.com/startuphyderabad/events/312608357/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Beyond Text: Building Multimodal RAG Systems 🌐 | Online | Jan 09 2026, 19:00 - 21:00 | [Click here](https://luma.com/knzoxkv4?tk=cGD08E "Visit event page") |
 | HydPy Pre-PyConf Community Meetup - In Collaboration with Memori | IIIT HYDERABAD | Jan 10 2026, 09:00 - 15:00 | [Click here](https://www.meetup.com/hydpygroup/events/312469507/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Hello Intelligence 2026 by Microsoft AI Innovators Hub | Microsoft Campus, Building 4, Gachibowli, Hyderabad, Telangana | Jan 10 2026, 09:00 | [Click here](https://forms.cloud.microsoft/r/9WU4n5xDek "Visit event page") |
@@ -29,6 +30,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | Offline Community Connect | IndiQube Pearl, Hyderabad, India | Jan 17 2026, 10:30 - 13:30 | [Click here](https://luma.com/27x7t36g?tk=L0dpOW "Visit event page") |
 | GrabChai Hyderabad:Hands-on AI Product Workshop | Draper Startup House, Rajiv Gandhi Nagar, Gachibowli | Jan 24 2026, 14:00 - 16:00 | [Click here](https://luma.com/1n82uz6s?tk=jaGASx "Visit event page") |
 | The Hyderabad Design Townhall: From Community to Ecosystem - Figma | Online/Offline - Hyderabad (TBA) | Jan 31 2026, 10:00 - 14:00 | [Click here](https://luma.com/dn0v21pb "Visit event page") |
+| eChai Startup Demo Day in Hyderabad: January Edition | CoKarma - Coworking Space, Hyderabad, India | Jan 31 2026, 18:00 - 20:00 | [Click here](https://echai.ventures/events/echai-startup-demo-day-in-hyderabad-january-edition-jan-31-2026 "Visit event page") |
+| Multicloud AIWorld 2026 | Tech Mahindra Learning World, Hyderabad, India | Feb 07 2026, 08:00 - 18:00 | [Click here](https://www.aioug.org/mc/2026/hyd "Visit event page") |
 | Swecha Foundation Day | Swecha Office Free (and Open Source) Software Community Telangana | Feb 09 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/swechafsmi/events/311640231/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
 
@@ -155,4 +158,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-29 00:32:33 UTC
+Last updated: 2025-12-29 14:03:16 UTC
