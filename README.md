@@ -19,7 +19,6 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
-| The Founders Circle Meet-up | To Be Announced | Dec 28 2025, 17:00 - 20:00 | [Click here](https://luma.com/zm7gpp7k?tk=LW3exP "Visit event page") |
 | Founders' Fest | Public Gardens, Lakdikapul, Hyderabad | Dec 31 2025, 12:00 - 14:00 | [Click here](https://www.meetup.com/edventure-park/events/312370461/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Beyond Containers: The WebAssembly on Kubernetes Deep Dive | To Be Announced | Jan 03 2026, 10:00 - 13:00 | [Click here](https://www.meetup.com/kubernetes-over-koffee/events/312520940/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Beyond Text: Building Multimodal RAG Systems 🌐 | Online | Jan 09 2026, 19:00 - 21:00 | [Click here](https://luma.com/knzoxkv4?tk=cGD08E "Visit event page") |
@@ -37,6 +36,7 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| The Founders Circle Meet-up | To Be Announced | Dec 28 2025, 17:00 - 20:00 | [Click here](https://luma.com/zm7gpp7k?tk=LW3exP "Visit event page") |
 | eChai Startup Demo Day in Hyderabad: December Edition | CoKarma - Coworking Space, Hyderabad, India | Dec 27 2025, 18:00 - 20:00 | [Click here](https://www.meetup.com/startuphyderabad/events/312512226/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | YANC Discover Meetup | 7th Floor, Tower 100, RMZ Spire (beside ITC Kohinoor), Hi-Tech City | Dec 27 2025, 10:00 - 13:00 | [Click here](https://luma.com/3ajf2wk8?tk=EqF68Q "Visit event page") |
 | DevDays Hyderabad - December 2025 | Swecha Office Free (and Open Source) Software Community Telangana | Dec 21 2025, 09:30 - 12:00 | [Click here](https://www.meetup.com/swechafsmi/events/311979191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
@@ -155,4 +155,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2025-12-28 00:33:53 UTC
+Last updated: 2025-12-29 00:32:33 UTC
