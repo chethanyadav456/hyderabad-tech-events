@@ -19,7 +19,6 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
-| Beyond Text: Building Multimodal RAG Systems 🌐 | Online | Jan 09 2026, 19:00 - 21:00 | [Click here](https://luma.com/knzoxkv4?tk=cGD08E "Visit event page") |
 | HydPy Pre-PyConf Community Meetup - In Collaboration with Memori | IIIT HYDERABAD | Jan 10 2026, 09:00 - 15:00 | [Click here](https://www.meetup.com/hydpygroup/events/312469507/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Hello Intelligence 2026 by Microsoft AI Innovators Hub | Microsoft Campus, Building 4, Gachibowli, Hyderabad, Telangana | Jan 10 2026, 09:00 | [Click here](https://forms.cloud.microsoft/r/9WU4n5xDek "Visit event page") |
 | React Hyderabad Meetup #2 | Hyderabad, India | Jan 10 2026, 10:00 | [Click here](https://luma.com/ccsl5lvi?tk=QtJUif "Visit event page") |
@@ -36,6 +35,7 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| Beyond Text: Building Multimodal RAG Systems 🌐 | Online | Jan 09 2026, 19:00 - 21:00 | [Click here](https://luma.com/knzoxkv4?tk=cGD08E "Visit event page") |
 | Hyderabad Startup Meetup - eChai Ventures | Draper Startup House, Hyderabad, India | Jan 03 2026, 18:00 - 20:00 | [Click here](https://www.meetup.com/startuphyderabad/events/312608357/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Beyond Containers: The WebAssembly on Kubernetes Deep Dive | To Be Announced | Jan 03 2026, 10:00 - 13:00 | [Click here](https://www.meetup.com/kubernetes-over-koffee/events/312520940/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Founders' Fest | Public Gardens, Lakdikapul, Hyderabad | Dec 31 2025, 12:00 - 14:00 | [Click here](https://www.meetup.com/edventure-park/events/312370461/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
@@ -158,4 +158,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-01-09 00:30:25 UTC
+Last updated: 2026-01-10 00:29:44 UTC
