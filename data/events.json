@@ -148,5 +148,21 @@
         "datetime": "2026-01-31 18:00",
         "end_time": "2026-01-31 20:00",
         "type": "in-person"
+    },
+    {
+        "name": "GitHub User Group Hyderabad January 2026 Meetup",
+        "link": "https://www.meetup.com/gittogether-hyderabad/events/312728426/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
+        "location": "Hyderabad, India",
+        "datetime": "2026-01-31 09:30",
+        "end_time": "2026-01-31 12:30",
+        "type": "in-person"
+    },
+    {
+        "name": "Hands-On Workshop : MongoDB Associate Developer Certification Exam",
+        "link": "https://www.meetup.com/mongodb-usergroup-hyderabad/events/312750047/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
+        "location": "Thought Works, 115, 4th Floor, Rajapushpa Summit 2-58, Sy.No.115, Financial District, Nanakramguda, Telangana 500008 · Hyderabad",
+        "datetime": "2026-01-31 09:00",
+        "end_time": "2026-01-31 16:00",
+        "type": "in-person"
     }
 ]
