@@ -21,6 +21,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | ---- | -------- | --------- | ---- |
 | Offline Community Connect | IndiQube Pearl, Hyderabad, India | Jan 17 2026, 10:30 - 13:30 | [Click here](https://luma.com/27x7t36g?tk=L0dpOW "Visit event page") |
 | GrabChai Hyderabad:Hands-on AI Product Workshop | Draper Startup House, Rajiv Gandhi Nagar, Gachibowli | Jan 24 2026, 14:00 - 16:00 | [Click here](https://luma.com/1n82uz6s?tk=jaGASx "Visit event page") |
+| Hands-On Workshop : MongoDB Associate Developer Certification Exam | Thought Works, 115, 4th Floor, Rajapushpa Summit 2-58, Sy.No.115, Financial District, Nanakramguda, Telangana 500008 · Hyderabad | Jan 31 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/mongodb-usergroup-hyderabad/events/312750047/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
+| GitHub User Group Hyderabad January 2026 Meetup | Hyderabad, India | Jan 31 2026, 09:30 - 12:30 | [Click here](https://www.meetup.com/gittogether-hyderabad/events/312728426/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | The Hyderabad Design Townhall: From Community to Ecosystem - Figma | Online/Offline - Hyderabad (TBA) | Jan 31 2026, 10:00 - 14:00 | [Click here](https://luma.com/dn0v21pb "Visit event page") |
 | eChai Startup Demo Day in Hyderabad: January Edition | CoKarma - Coworking Space, Hyderabad, India | Jan 31 2026, 18:00 - 20:00 | [Click here](https://echai.ventures/events/echai-startup-demo-day-in-hyderabad-january-edition-jan-31-2026 "Visit event page") |
 | Multicloud AIWorld 2026 | Tech Mahindra Learning World, Hyderabad, India | Feb 07 2026, 08:00 - 18:00 | [Click here](https://www.aioug.org/mc/2026/hyd "Visit event page") |
@@ -158,4 +160,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-01-11 00:33:20 UTC
+Last updated: 2026-01-11 10:46:17 UTC
