@@ -164,5 +164,13 @@
         "datetime": "2026-01-31 09:00",
         "end_time": "2026-01-31 16:00",
         "type": "in-person"
+    },
+    {
+        "name": "Hyderabad Open Source Conference - Community Collaboration",
+        "link": "https://www.meetup.com/grafana-friends-hyderabad/events/312893309/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
+        "location": "Microsoft Building 1, Gate 2, ISB Rd, Gachibowli, Hyderabad, Telangana 500032 · Hyderabad",
+        "datetime": "2026-01-31 09:30",
+        "end_time": "2026-01-31 16:30",
+        "type": "in-person"
     }
 ]
