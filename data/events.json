@@ -172,5 +172,13 @@
         "datetime": "2026-01-31 09:30",
         "end_time": "2026-01-31 16:30",
         "type": "in-person"
+    },
+    {
+        "name": "Null Hyderabad Monthly Meet — Jan 2026",
+        "link": "https://www.eventbrite.com/e/null-hyderabad-monthly-meet-jan-2026-tickets-1980818550607?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+        "location": "EPAM Systems",
+        "datetime": "2026-01-24 09:30",
+        "end_time": "2026-01-24 13:00",
+        "type": "in-person"
     }
 ]
