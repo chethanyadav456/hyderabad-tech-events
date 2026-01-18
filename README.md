@@ -19,6 +19,7 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| Null Hyderabad Monthly Meet — Jan 2026 | EPAM Systems | Jan 24 2026, 09:30 - 13:00 | [Click here](https://www.eventbrite.com/e/null-hyderabad-monthly-meet-jan-2026-tickets-1980818550607?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl "Visit event page") |
 | GrabChai Hyderabad:Hands-on AI Product Workshop | Draper Startup House, Rajiv Gandhi Nagar, Gachibowli | Jan 24 2026, 14:00 - 16:00 | [Click here](https://luma.com/1n82uz6s?tk=jaGASx "Visit event page") |
 | Hands-On Workshop : MongoDB Associate Developer Certification Exam | Thought Works, 115, 4th Floor, Rajapushpa Summit 2-58, Sy.No.115, Financial District, Nanakramguda, Telangana 500008 · Hyderabad | Jan 31 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/mongodb-usergroup-hyderabad/events/312750047/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | GitHub User Group Hyderabad January 2026 Meetup | Hyderabad, India | Jan 31 2026, 09:30 - 12:30 | [Click here](https://www.meetup.com/gittogether-hyderabad/events/312728426/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
@@ -160,4 +161,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-01-18 00:32:58 UTC
+Last updated: 2026-01-18 18:57:43 UTC
