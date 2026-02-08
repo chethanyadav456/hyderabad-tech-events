@@ -19,7 +19,6 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
-| Multicloud AIWorld 2026 | Tech Mahindra Learning World, Hyderabad, India | Feb 07 2026, 08:00 - 18:00 | [Click here](https://www.aioug.org/mc/2026/hyd "Visit event page") |
 | Swecha Foundation Day | Swecha Office Free (and Open Source) Software Community Telangana | Feb 09 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/swechafsmi/events/311640231/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
 
@@ -27,6 +26,7 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| Multicloud AIWorld 2026 | Tech Mahindra Learning World, Hyderabad, India | Feb 07 2026, 08:00 - 18:00 | [Click here](https://www.aioug.org/mc/2026/hyd "Visit event page") |
 | eChai Startup Demo Day in Hyderabad: January Edition | CoKarma - Coworking Space, Hyderabad, India | Jan 31 2026, 18:00 - 20:00 | [Click here](https://echai.ventures/events/echai-startup-demo-day-in-hyderabad-january-edition-jan-31-2026 "Visit event page") |
 | The Hyderabad Design Townhall: From Community to Ecosystem - Figma | Online/Offline - Hyderabad (TBA) | Jan 31 2026, 10:00 - 14:00 | [Click here](https://luma.com/dn0v21pb "Visit event page") |
 | GitHub User Group Hyderabad January 2026 Meetup | Hyderabad, India | Jan 31 2026, 09:30 - 12:30 | [Click here](https://www.meetup.com/gittogether-hyderabad/events/312728426/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
@@ -36,9 +36,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | Null Hyderabad Monthly Meet — Jan 2026 | EPAM Systems | Jan 24 2026, 09:30 - 13:00 | [Click here](https://www.eventbrite.com/e/null-hyderabad-monthly-meet-jan-2026-tickets-1980818550607?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl "Visit event page") |
 | Offline Community Connect | IndiQube Pearl, Hyderabad, India | Jan 17 2026, 10:30 - 13:30 | [Click here](https://luma.com/27x7t36g?tk=L0dpOW "Visit event page") |
 | ISB HEALTHCARE CATALYST | Indian School of Business, Gachibowli | Jan 10 2026, 17:00 - 20:00 | [Click here](https://luma.com/mvd32m4m?tk=DgFvKL "Visit event page") |
-| React Hyderabad Meetup #2 | Hyderabad, India | Jan 10 2026, 10:00 | [Click here](https://luma.com/ccsl5lvi?tk=QtJUif "Visit event page") |
 
-*Showing 10 most recent events. Total past events: 20*
+*Showing 10 most recent events. Total past events: 21*
 
 ## Hyderabad Tech/Startup Communities
 
@@ -154,4 +153,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-02-07 00:34:47 UTC
+Last updated: 2026-02-08 00:46:44 UTC
