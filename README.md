@@ -17,14 +17,14 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 ## Upcoming Events
 
-| Name | Location | Date/Time | Link |
-| ---- | -------- | --------- | ---- |
-| PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
+*No upcoming events at the moment. Check back soon or [contribute an event](CONTRIBUTING.md)!*
+
 
 ## Past Events
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
 | Swecha Foundation Day | Swecha Office Free (and Open Source) Software Community Telangana | Feb 09 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/swechafsmi/events/311640231/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Multicloud AIWorld 2026 | Tech Mahindra Learning World, Hyderabad, India | Feb 07 2026, 08:00 - 18:00 | [Click here](https://www.aioug.org/mc/2026/hyd "Visit event page") |
 | eChai Startup Demo Day in Hyderabad: January Edition | CoKarma - Coworking Space, Hyderabad, India | Jan 31 2026, 18:00 - 20:00 | [Click here](https://echai.ventures/events/echai-startup-demo-day-in-hyderabad-january-edition-jan-31-2026 "Visit event page") |
@@ -34,9 +34,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | Hands-On Workshop : MongoDB Associate Developer Certification Exam | Thought Works, 115, 4th Floor, Rajapushpa Summit 2-58, Sy.No.115, Financial District, Nanakramguda, Telangana 500008 · Hyderabad | Jan 31 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/mongodb-usergroup-hyderabad/events/312750047/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | GrabChai Hyderabad:Hands-on AI Product Workshop | Draper Startup House, Rajiv Gandhi Nagar, Gachibowli | Jan 24 2026, 14:00 - 16:00 | [Click here](https://luma.com/1n82uz6s?tk=jaGASx "Visit event page") |
 | Null Hyderabad Monthly Meet — Jan 2026 | EPAM Systems | Jan 24 2026, 09:30 - 13:00 | [Click here](https://www.eventbrite.com/e/null-hyderabad-monthly-meet-jan-2026-tickets-1980818550607?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl "Visit event page") |
-| Offline Community Connect | IndiQube Pearl, Hyderabad, India | Jan 17 2026, 10:30 - 13:30 | [Click here](https://luma.com/27x7t36g?tk=L0dpOW "Visit event page") |
 
-*Showing 10 most recent events. Total past events: 22*
+*Showing 10 most recent events. Total past events: 23*
 
 ## Hyderabad Tech/Startup Communities
 
@@ -152,4 +151,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-03-14 00:34:49 UTC
+Last updated: 2026-03-15 00:42:26 UTC
