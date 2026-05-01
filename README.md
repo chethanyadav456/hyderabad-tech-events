@@ -20,8 +20,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
 | Hive.Link - Trade Your Skills, Build Your Circle | Silver Specialty Coffee | May 02 2026, 14:00 - 17:00 | [Click here](https://luma.com/8hps9alc?tk=krrlHn "Visit event page") |
-| Agentic by Eigen | Hyderabad Edition | Draper Startup House for Entrepreneurs | May 02 2026, 17:00 - 20:45 | [Click here](https://luma.com/d05ywg4h?tk=0uTZc4 "Visit event page") |
-| Hyderabad | CCCL HYD1 — Claude Code Stories | To Be Announced | May 02 2026, 18:00 - 20:30 | [Click here](https://luma.com/cccl.hyd1?tk=IjAndT "Visit event page") |
+| Agentic by Eigen - Hyderabad Edition | Draper Startup House for Entrepreneurs | May 02 2026, 17:00 - 20:45 | [Click here](https://luma.com/d05ywg4h?tk=0uTZc4 "Visit event page") |
+| Hyderabad - CCCL HYD1 — Claude Code Stories | To Be Announced | May 02 2026, 18:00 - 20:30 | [Click here](https://luma.com/cccl.hyd1?tk=IjAndT "Visit event page") |
 | AI Builders Meet-up- Hyderabad | People Tech Group | May 03 2026, 17:00 - 19:30 | [Click here](https://luma.com/xvv23l9q?tk=AnKR70 "Visit event page") |
 | HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India | IIIT HYDERABAD | May 16 2026, 09:00 - 17:00 | [Click here](https://luma.com/eeief3il?tk=UsOSVp "Visit event page") |
 
@@ -156,4 +156,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-05-01 12:01:30 UTC
+Last updated: 2026-05-01 12:03:29 UTC
