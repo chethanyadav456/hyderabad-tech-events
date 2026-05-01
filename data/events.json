@@ -180,5 +180,53 @@
         "datetime": "2026-01-24 09:30",
         "end_time": "2026-01-24 13:00",
         "type": "in-person"
-    }
+    },
+     {
+        "name": "AI Founder's Mixer",
+        "link": "https://luma.com/t95ebhwv?tk=d3oCEe",
+        "location": "HITEC City",
+        "datetime": "2026-04-30 17:00",
+        "end_time": "2026-04-30 19:00",
+        "type": "in-person"
+    },
+    {
+        "name": "Hive.Link - Trade Your Skills, Build Your Circle",
+        "link": "https://luma.com/8hps9alc?tk=krrlHn",
+        "location": "Silver Specialty Coffee",
+        "datetime": "2026-05-02 14:00",
+        "end_time": "2026-05-02 17:00",
+        "type": "in-person"
+    },
+    {
+        "name": "Agentic by Eigen | Hyderabad Edition",
+        "link": "https://luma.com/d05ywg4h?tk=0uTZc4",
+        "location": "Draper Startup House for Entrepreneurs",
+        "datetime": "2026-05-02 17:00",
+        "end_time": "2026-05-02 20:45",
+        "type": "in-person"
+    },
+    {
+        "name": "Hyderabad | CCCL HYD1 — Claude Code Stories",
+        "link": "https://luma.com/cccl.hyd1?tk=IjAndT",
+        "location": "To Be Announced",
+        "datetime": "2026-05-02 18:00",
+        "end_time": "2026-05-02 20:30",
+        "type": "in-person"
+    },
+    {
+        "name": "AI Builders Meet-up- Hyderabad",
+        "link": "https://luma.com/xvv23l9q?tk=AnKR70",
+        "location": "People Tech Group",
+        "datetime": "2026-05-03 17:00",
+        "end_time": "2026-05-03 19:30",
+        "type": "in-person"
+    },
+    {
+        "name": "HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India",
+        "link": "https://luma.com/eeief3il?tk=UsOSVp",
+        "location": "IIIT HYDERABAD",
+        "datetime": "2026-05-16 09:00",
+        "end_time": "2026-05-16 17:00",
+        "type": "in-person"
+    },
 ]
