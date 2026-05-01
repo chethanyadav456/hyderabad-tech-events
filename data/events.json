@@ -228,5 +228,21 @@
         "datetime": "2026-05-16 09:00",
         "end_time": "2026-05-16 17:00",
         "type": "in-person"
+    },
+     {
+        "name": "GenAI in Production (RAG + Agents)",
+        "link": "https://luma.com/hslrfd8m?tk=92rVsO",
+        "location": "To Be Announced",
+        "datetime": "2026-05-16 10:00",
+        "end_time": "2026-05-16 12:30",
+        "type": "in-person"
+    },
+     {
+        "name": "SREday Hyderabad 2026 Q2",
+        "link": "https://luma.com/sreday-2026-hyderabad-q2?tk=R4xmgm",
+        "location": "Knowledge City Road",
+        "datetime": "2026-05-27 09:00",
+        "end_time": "2026-05-27 17:00",
+        "type": "in-person"
     }
 ]
