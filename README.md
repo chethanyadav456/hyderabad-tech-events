@@ -24,6 +24,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | Hyderabad - CCCL HYD1 — Claude Code Stories | To Be Announced | May 02 2026, 18:00 - 20:30 | [Click here](https://luma.com/cccl.hyd1?tk=IjAndT "Visit event page") |
 | AI Builders Meet-up- Hyderabad | People Tech Group | May 03 2026, 17:00 - 19:30 | [Click here](https://luma.com/xvv23l9q?tk=AnKR70 "Visit event page") |
 | HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India | IIIT HYDERABAD | May 16 2026, 09:00 - 17:00 | [Click here](https://luma.com/eeief3il?tk=UsOSVp "Visit event page") |
+| GenAI in Production (RAG + Agents) | To Be Announced | May 16 2026, 10:00 - 12:30 | [Click here](https://luma.com/hslrfd8m?tk=92rVsO "Visit event page") |
+| SREday Hyderabad 2026 Q2 | Knowledge City Road | May 27 2026, 09:00 - 17:00 | [Click here](https://luma.com/sreday-2026-hyderabad-q2?tk=R4xmgm "Visit event page") |
 
 ## Past Events
 
@@ -156,4 +158,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-05-01 12:03:29 UTC
+Last updated: 2026-05-01 12:13:56 UTC
