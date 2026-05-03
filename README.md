@@ -19,9 +19,6 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
-| Hive.Link - Trade Your Skills, Build Your Circle | Silver Specialty Coffee | May 02 2026, 14:00 - 17:00 | [Click here](https://luma.com/8hps9alc?tk=krrlHn "Visit event page") |
-| Agentic by Eigen - Hyderabad Edition | Draper Startup House for Entrepreneurs | May 02 2026, 17:00 - 20:45 | [Click here](https://luma.com/d05ywg4h?tk=0uTZc4 "Visit event page") |
-| Hyderabad - CCCL HYD1 — Claude Code Stories | To Be Announced | May 02 2026, 18:00 - 20:30 | [Click here](https://luma.com/cccl.hyd1?tk=IjAndT "Visit event page") |
 | AI Builders Meet-up- Hyderabad | People Tech Group | May 03 2026, 17:00 - 19:30 | [Click here](https://luma.com/xvv23l9q?tk=AnKR70 "Visit event page") |
 | HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India | IIIT HYDERABAD | May 16 2026, 09:00 - 17:00 | [Click here](https://luma.com/eeief3il?tk=UsOSVp "Visit event page") |
 | GenAI in Production (RAG + Agents) | To Be Announced | May 16 2026, 10:00 - 12:30 | [Click here](https://luma.com/hslrfd8m?tk=92rVsO "Visit event page") |
@@ -31,6 +28,9 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| Hyderabad - CCCL HYD1 — Claude Code Stories | To Be Announced | May 02 2026, 18:00 - 20:30 | [Click here](https://luma.com/cccl.hyd1?tk=IjAndT "Visit event page") |
+| Agentic by Eigen - Hyderabad Edition | Draper Startup House for Entrepreneurs | May 02 2026, 17:00 - 20:45 | [Click here](https://luma.com/d05ywg4h?tk=0uTZc4 "Visit event page") |
+| Hive.Link - Trade Your Skills, Build Your Circle | Silver Specialty Coffee | May 02 2026, 14:00 - 17:00 | [Click here](https://luma.com/8hps9alc?tk=krrlHn "Visit event page") |
 | AI Founder's Mixer | HITEC City | Apr 30 2026, 17:00 - 19:00 | [Click here](https://luma.com/t95ebhwv?tk=d3oCEe "Visit event page") |
 | PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
 | Swecha Foundation Day | Swecha Office Free (and Open Source) Software Community Telangana | Feb 09 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/swechafsmi/events/311640231/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
@@ -38,11 +38,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | eChai Startup Demo Day in Hyderabad: January Edition | CoKarma - Coworking Space, Hyderabad, India | Jan 31 2026, 18:00 - 20:00 | [Click here](https://echai.ventures/events/echai-startup-demo-day-in-hyderabad-january-edition-jan-31-2026 "Visit event page") |
 | The Hyderabad Design Townhall: From Community to Ecosystem - Figma | Online/Offline - Hyderabad (TBA) | Jan 31 2026, 10:00 - 14:00 | [Click here](https://luma.com/dn0v21pb "Visit event page") |
 | GitHub User Group Hyderabad January 2026 Meetup | Hyderabad, India | Jan 31 2026, 09:30 - 12:30 | [Click here](https://www.meetup.com/gittogether-hyderabad/events/312728426/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
-| Hyderabad Open Source Conference - Community Collaboration | Microsoft Building 1, Gate 2, ISB Rd, Gachibowli, Hyderabad, Telangana 500032 · Hyderabad | Jan 31 2026, 09:30 - 16:30 | [Click here](https://www.meetup.com/grafana-friends-hyderabad/events/312893309/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
-| Hands-On Workshop : MongoDB Associate Developer Certification Exam | Thought Works, 115, 4th Floor, Rajapushpa Summit 2-58, Sy.No.115, Financial District, Nanakramguda, Telangana 500008 · Hyderabad | Jan 31 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/mongodb-usergroup-hyderabad/events/312750047/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
-| GrabChai Hyderabad:Hands-on AI Product Workshop | Draper Startup House, Rajiv Gandhi Nagar, Gachibowli | Jan 24 2026, 14:00 - 16:00 | [Click here](https://luma.com/1n82uz6s?tk=jaGASx "Visit event page") |
 
-*Showing 10 most recent events. Total past events: 24*
+*Showing 10 most recent events. Total past events: 27*
 
 ## Hyderabad Tech/Startup Communities
 
@@ -158,4 +155,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-05-02 00:50:31 UTC
+Last updated: 2026-05-03 00:54:25 UTC
