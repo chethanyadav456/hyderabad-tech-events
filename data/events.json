@@ -244,5 +244,45 @@
         "datetime": "2026-05-27 09:00",
         "end_time": "2026-05-27 17:00",
         "type": "in-person"
+    },
+    {
+        "name": "GrafanaCON Local meetup Hyderabad",
+        "link": "https://www.meetup.com/grafana-friends-hyderabad/events/314211501/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
+        "location": "Tech Mahindra Learning World",
+        "datetime": "2026-05-30 09:30",
+        "end_time": "2026-05-30 16:00",
+        "type": "in-person"
+    },
+    {
+        "name": "Scaling AI in Organisations",
+        "link": "https://luma.com/snts5g1i?tk=SwRBLY",
+        "location": "DevX",
+        "datetime": "2026-05-23 10:00",
+        "end_time": "2026-05-23 13:00",
+        "type": "in-person"
+    },
+    {
+        "name": "The Modern AI Stack",
+        "link": "https://luma.com/fivxivbo?tk=8Anz6r",
+        "location": "EPAM",
+        "datetime": "2026-05-31 09:30",
+        "end_time": "2026-05-31 16:00",
+        "type": "in-person"
+    },
+    {
+        "name": "Agentic Testers Day Hyderabad",
+        "link": "https://www.meetup.com/agentic-ai-community-hyderabad/events/314626300/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433",
+        "location": "T Hub Phase 2",
+        "datetime": "2026-06-13 14:00",
+        "end_time": "2026-06-13 18:00",
+        "type": "in-person"
+    },
+      {
+        "name": "Cyberslay Meet up - Hyderabad",
+        "link": "https://luma.com/8h560yfz?tk=RZVCc2",
+        "location": "Segment Spaces 15th Floor",
+        "datetime": "2026-05-30 10:00",
+        "end_time": "2026-05-30 13:00",
+        "type": "in-person"
     }
 ]
