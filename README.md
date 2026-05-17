@@ -19,14 +19,14 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
-| HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India | IIIT HYDERABAD | May 16 2026, 09:00 - 17:00 | [Click here](https://luma.com/eeief3il?tk=UsOSVp "Visit event page") |
-| GenAI in Production (RAG + Agents) | To Be Announced | May 16 2026, 10:00 - 12:30 | [Click here](https://luma.com/hslrfd8m?tk=92rVsO "Visit event page") |
 | SREday Hyderabad 2026 Q2 | Knowledge City Road | May 27 2026, 09:00 - 17:00 | [Click here](https://luma.com/sreday-2026-hyderabad-q2?tk=R4xmgm "Visit event page") |
 
 ## Past Events
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| GenAI in Production (RAG + Agents) | To Be Announced | May 16 2026, 10:00 - 12:30 | [Click here](https://luma.com/hslrfd8m?tk=92rVsO "Visit event page") |
+| HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India | IIIT HYDERABAD | May 16 2026, 09:00 - 17:00 | [Click here](https://luma.com/eeief3il?tk=UsOSVp "Visit event page") |
 | AI Builders Meet-up- Hyderabad | People Tech Group | May 03 2026, 17:00 - 19:30 | [Click here](https://luma.com/xvv23l9q?tk=AnKR70 "Visit event page") |
 | Hyderabad - CCCL HYD1 — Claude Code Stories | To Be Announced | May 02 2026, 18:00 - 20:30 | [Click here](https://luma.com/cccl.hyd1?tk=IjAndT "Visit event page") |
 | Agentic by Eigen - Hyderabad Edition | Draper Startup House for Entrepreneurs | May 02 2026, 17:00 - 20:45 | [Click here](https://luma.com/d05ywg4h?tk=0uTZc4 "Visit event page") |
@@ -35,10 +35,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
 | Swecha Foundation Day | Swecha Office Free (and Open Source) Software Community Telangana | Feb 09 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/swechafsmi/events/311640231/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Multicloud AIWorld 2026 | Tech Mahindra Learning World, Hyderabad, India | Feb 07 2026, 08:00 - 18:00 | [Click here](https://www.aioug.org/mc/2026/hyd "Visit event page") |
-| eChai Startup Demo Day in Hyderabad: January Edition | CoKarma - Coworking Space, Hyderabad, India | Jan 31 2026, 18:00 - 20:00 | [Click here](https://echai.ventures/events/echai-startup-demo-day-in-hyderabad-january-edition-jan-31-2026 "Visit event page") |
-| The Hyderabad Design Townhall: From Community to Ecosystem - Figma | Online/Offline - Hyderabad (TBA) | Jan 31 2026, 10:00 - 14:00 | [Click here](https://luma.com/dn0v21pb "Visit event page") |
 
-*Showing 10 most recent events. Total past events: 28*
+*Showing 10 most recent events. Total past events: 30*
 
 ## Hyderabad Tech/Startup Communities
 
@@ -154,4 +152,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-05-16 00:51:46 UTC
+Last updated: 2026-05-17 00:57:28 UTC
