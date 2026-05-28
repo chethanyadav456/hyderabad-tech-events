@@ -19,7 +19,6 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
-| SREday Hyderabad 2026 Q2 | Knowledge City Road | May 27 2026, 09:00 - 17:00 | [Click here](https://luma.com/sreday-2026-hyderabad-q2?tk=R4xmgm "Visit event page") |
 | GrafanaCON Local meetup Hyderabad | Tech Mahindra Learning World | May 30 2026, 09:30 - 16:00 | [Click here](https://www.meetup.com/grafana-friends-hyderabad/events/314211501/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | Cyberslay Meet up - Hyderabad | Segment Spaces 15th Floor | May 30 2026, 10:00 - 13:00 | [Click here](https://luma.com/8h560yfz?tk=RZVCc2 "Visit event page") |
 | The Modern AI Stack | EPAM | May 31 2026, 09:30 - 16:00 | [Click here](https://luma.com/fivxivbo?tk=8Anz6r "Visit event page") |
@@ -29,6 +28,7 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| SREday Hyderabad 2026 Q2 | Knowledge City Road | May 27 2026, 09:00 - 17:00 | [Click here](https://luma.com/sreday-2026-hyderabad-q2?tk=R4xmgm "Visit event page") |
 | Scaling AI in Organisations | DevX | May 23 2026, 10:00 - 13:00 | [Click here](https://luma.com/snts5g1i?tk=SwRBLY "Visit event page") |
 | GenAI in Production (RAG + Agents) | To Be Announced | May 16 2026, 10:00 - 12:30 | [Click here](https://luma.com/hslrfd8m?tk=92rVsO "Visit event page") |
 | HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India | IIIT HYDERABAD | May 16 2026, 09:00 - 17:00 | [Click here](https://luma.com/eeief3il?tk=UsOSVp "Visit event page") |
@@ -38,9 +38,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | Hive.Link - Trade Your Skills, Build Your Circle | Silver Specialty Coffee | May 02 2026, 14:00 - 17:00 | [Click here](https://luma.com/8hps9alc?tk=krrlHn "Visit event page") |
 | AI Founder's Mixer | HITEC City | Apr 30 2026, 17:00 - 19:00 | [Click here](https://luma.com/t95ebhwv?tk=d3oCEe "Visit event page") |
 | PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
-| Swecha Foundation Day | Swecha Office Free (and Open Source) Software Community Telangana | Feb 09 2026, 09:00 - 16:00 | [Click here](https://www.meetup.com/swechafsmi/events/311640231/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 
-*Showing 10 most recent events. Total past events: 31*
+*Showing 10 most recent events. Total past events: 32*
 
 ## Hyderabad Tech/Startup Communities
 
@@ -156,4 +155,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-05-27 01:00:22 UTC
+Last updated: 2026-05-28 00:54:44 UTC
