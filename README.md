@@ -19,8 +19,6 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
-| GrafanaCON Local meetup Hyderabad | Tech Mahindra Learning World | May 30 2026, 09:30 - 16:00 | [Click here](https://www.meetup.com/grafana-friends-hyderabad/events/314211501/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
-| Cyberslay Meet up - Hyderabad | Segment Spaces 15th Floor | May 30 2026, 10:00 - 13:00 | [Click here](https://luma.com/8h560yfz?tk=RZVCc2 "Visit event page") |
 | The Modern AI Stack | EPAM | May 31 2026, 09:30 - 16:00 | [Click here](https://luma.com/fivxivbo?tk=8Anz6r "Visit event page") |
 | Agentic Testers Day Hyderabad | T Hub Phase 2 | Jun 13 2026, 14:00 - 18:00 | [Click here](https://www.meetup.com/agentic-ai-community-hyderabad/events/314626300/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 
@@ -28,6 +26,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| Cyberslay Meet up - Hyderabad | Segment Spaces 15th Floor | May 30 2026, 10:00 - 13:00 | [Click here](https://luma.com/8h560yfz?tk=RZVCc2 "Visit event page") |
+| GrafanaCON Local meetup Hyderabad | Tech Mahindra Learning World | May 30 2026, 09:30 - 16:00 | [Click here](https://www.meetup.com/grafana-friends-hyderabad/events/314211501/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | SREday Hyderabad 2026 Q2 | Knowledge City Road | May 27 2026, 09:00 - 17:00 | [Click here](https://luma.com/sreday-2026-hyderabad-q2?tk=R4xmgm "Visit event page") |
 | Scaling AI in Organisations | DevX | May 23 2026, 10:00 - 13:00 | [Click here](https://luma.com/snts5g1i?tk=SwRBLY "Visit event page") |
 | GenAI in Production (RAG + Agents) | To Be Announced | May 16 2026, 10:00 - 12:30 | [Click here](https://luma.com/hslrfd8m?tk=92rVsO "Visit event page") |
@@ -36,10 +36,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | Hyderabad - CCCL HYD1 — Claude Code Stories | To Be Announced | May 02 2026, 18:00 - 20:30 | [Click here](https://luma.com/cccl.hyd1?tk=IjAndT "Visit event page") |
 | Agentic by Eigen - Hyderabad Edition | Draper Startup House for Entrepreneurs | May 02 2026, 17:00 - 20:45 | [Click here](https://luma.com/d05ywg4h?tk=0uTZc4 "Visit event page") |
 | Hive.Link - Trade Your Skills, Build Your Circle | Silver Specialty Coffee | May 02 2026, 14:00 - 17:00 | [Click here](https://luma.com/8hps9alc?tk=krrlHn "Visit event page") |
-| AI Founder's Mixer | HITEC City | Apr 30 2026, 17:00 - 19:00 | [Click here](https://luma.com/t95ebhwv?tk=d3oCEe "Visit event page") |
-| PyConf Hyderabad 2026 | Engineering Staff College of India, Hyderabad, India | Mar 14 2026, 20:00 - Mar 15 2026, 19:00 | [Click here](https://2026.pyconfhyd.org/ "Visit event page") |
 
-*Showing 10 most recent events. Total past events: 32*
+*Showing 10 most recent events. Total past events: 34*
 
 ## Hyderabad Tech/Startup Communities
 
@@ -155,4 +153,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-05-30 00:58:08 UTC
+Last updated: 2026-05-31 01:03:58 UTC
