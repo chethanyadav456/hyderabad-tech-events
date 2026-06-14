@@ -17,14 +17,14 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 ## Upcoming Events
 
-| Name | Location | Date/Time | Link |
-| ---- | -------- | --------- | ---- |
-| Agentic Testers Day Hyderabad | T Hub Phase 2 | Jun 13 2026, 14:00 - 18:00 | [Click here](https://www.meetup.com/agentic-ai-community-hyderabad/events/314626300/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
+*No upcoming events at the moment. Check back soon or [contribute an event](CONTRIBUTING.md)!*
+
 
 ## Past Events
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| Agentic Testers Day Hyderabad | T Hub Phase 2 | Jun 13 2026, 14:00 - 18:00 | [Click here](https://www.meetup.com/agentic-ai-community-hyderabad/events/314626300/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | The Modern AI Stack | EPAM | May 31 2026, 09:30 - 16:00 | [Click here](https://luma.com/fivxivbo?tk=8Anz6r "Visit event page") |
 | Cyberslay Meet up - Hyderabad | Segment Spaces 15th Floor | May 30 2026, 10:00 - 13:00 | [Click here](https://luma.com/8h560yfz?tk=RZVCc2 "Visit event page") |
 | GrafanaCON Local meetup Hyderabad | Tech Mahindra Learning World | May 30 2026, 09:30 - 16:00 | [Click here](https://www.meetup.com/grafana-friends-hyderabad/events/314211501/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
@@ -34,9 +34,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India | IIIT HYDERABAD | May 16 2026, 09:00 - 17:00 | [Click here](https://luma.com/eeief3il?tk=UsOSVp "Visit event page") |
 | AI Builders Meet-up- Hyderabad | People Tech Group | May 03 2026, 17:00 - 19:30 | [Click here](https://luma.com/xvv23l9q?tk=AnKR70 "Visit event page") |
 | Hyderabad - CCCL HYD1 — Claude Code Stories | To Be Announced | May 02 2026, 18:00 - 20:30 | [Click here](https://luma.com/cccl.hyd1?tk=IjAndT "Visit event page") |
-| Agentic by Eigen - Hyderabad Edition | Draper Startup House for Entrepreneurs | May 02 2026, 17:00 - 20:45 | [Click here](https://luma.com/d05ywg4h?tk=0uTZc4 "Visit event page") |
 
-*Showing 10 most recent events. Total past events: 35*
+*Showing 10 most recent events. Total past events: 36*
 
 ## Hyderabad Tech/Startup Communities
 
@@ -152,4 +151,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-06-13 10:13:30 UTC
+Last updated: 2026-06-14 10:53:42 UTC
