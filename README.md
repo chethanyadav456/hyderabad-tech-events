@@ -151,4 +151,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-08-31 00:08:33 UTC
+Last updated: 2026-09-01 00:20:32 UTC
