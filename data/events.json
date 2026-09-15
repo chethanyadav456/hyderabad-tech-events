@@ -284,5 +284,13 @@
         "datetime": "2026-05-30 10:00",
         "end_time": "2026-05-30 13:00",
         "type": "in-person"
+    },
+    {
+        "name": "AI-First Engineering: How Agents Are Changing Software Development",
+        "link": "https://www.meetup.com/agentic-engineering-and-modern-deployments/events/315549201",
+        "location": "Online",
+        "datetime": "2026-07-25 16:00",
+        "end_time": "2026-07-25 18:00",
+        "type": "online"
     }
 ]
