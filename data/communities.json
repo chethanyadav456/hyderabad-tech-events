@@ -58,5 +58,11 @@
         "description": "Cloud-native and Kubernetes community. Meetups on container orchestration, DevOps, and cloud infrastructure.",
         "link": "https://www.meetup.com/kubernetes-over-koffee/",
         "type": "DevOps/Cloud"
+    },
+    {
+        "name": "Agentic Engineering and Modern Deployments",
+        "description": "Hyderabad community exploring AI and agentic workflows across the software lifecycle — agent-assisted development (Cursor, Claude Code, MCP), workflow automation, and modern deployment strategies (edge, serverless, containers). For developers, DevOps engineers, PMs, and founders.",
+        "link": "https://www.meetup.com/agentic-engineering-and-modern-deployments",
+        "type": "AI/ML"
     }
 ]
