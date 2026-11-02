@@ -24,6 +24,7 @@ A curated, community-driven list of tech meetups, startup events, and networking
 
 | Name | Location | Date/Time | Link |
 | ---- | -------- | --------- | ---- |
+| AI-First Engineering: How Agents Are Changing Software Development 🌐 | Online | Jul 25 2026, 16:00 - 18:00 | [Click here](https://www.meetup.com/agentic-engineering-and-modern-deployments/events/315549201 "Visit event page") |
 | Agentic Testers Day Hyderabad | T Hub Phase 2 | Jun 13 2026, 14:00 - 18:00 | [Click here](https://www.meetup.com/agentic-ai-community-hyderabad/events/314626300/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=365174433 "Visit event page") |
 | The Modern AI Stack | EPAM | May 31 2026, 09:30 - 16:00 | [Click here](https://luma.com/fivxivbo?tk=8Anz6r "Visit event page") |
 | Cyberslay Meet up - Hyderabad | Segment Spaces 15th Floor | May 30 2026, 10:00 - 13:00 | [Click here](https://luma.com/8h560yfz?tk=RZVCc2 "Visit event page") |
@@ -33,9 +34,8 @@ A curated, community-driven list of tech meetups, startup events, and networking
 | GenAI in Production (RAG + Agents) | To Be Announced | May 16 2026, 10:00 - 12:30 | [Click here](https://luma.com/hslrfd8m?tk=92rVsO "Visit event page") |
 | HydPy is hosting an NVIDIA Nemotron 3 Super Workshop - India | IIIT HYDERABAD | May 16 2026, 09:00 - 17:00 | [Click here](https://luma.com/eeief3il?tk=UsOSVp "Visit event page") |
 | AI Builders Meet-up- Hyderabad | People Tech Group | May 03 2026, 17:00 - 19:30 | [Click here](https://luma.com/xvv23l9q?tk=AnKR70 "Visit event page") |
-| Hyderabad - CCCL HYD1 — Claude Code Stories | To Be Announced | May 02 2026, 18:00 - 20:30 | [Click here](https://luma.com/cccl.hyd1?tk=IjAndT "Visit event page") |
 
-*Showing 10 most recent events. Total past events: 36*
+*Showing 10 most recent events. Total past events: 37*
 
 ## Hyderabad Tech/Startup Communities
 
@@ -53,6 +53,7 @@ Connect with these amazing tech communities in Hyderabad:
 | Hyderabad JavaScript | Programming Language | JavaScript developers community. Meetups covering JavaScript, Node.js, and modern web frameworks. | [Visit](https://www.meetup.com/hyderabad-javascript/ "Visit community page") |
 | Data Scientists Hyderabad | Data Science | Community for data science professionals and enthusiasts. Events on data analytics, visualization, and big data. | [Visit](https://www.meetup.com/data-scientists-hyderabad/ "Visit community page") |
 | Kubernetes Over Koffee ☕ | DevOps/Cloud | Cloud-native and Kubernetes community. Meetups on container orchestration, DevOps, and cloud infrastructure. | [Visit](https://www.meetup.com/kubernetes-over-koffee/ "Visit community page") |
+| Agentic Engineering and Modern Deployments | AI/ML | Hyderabad community exploring AI and agentic workflows across the software lifecycle — agent-assisted development (Cursor, Claude Code, MCP), workflow automation, and modern deployment strategies (edge, serverless, containers). For developers, DevOps engineers, PMs, and founders. | [Visit](https://www.meetup.com/agentic-engineering-and-modern-deployments "Visit community page") |
 
 ## About This Project
 
@@ -151,4 +152,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-11-02 00:47:19 UTC
+Last updated: 2026-11-02 03:28:35 UTC
