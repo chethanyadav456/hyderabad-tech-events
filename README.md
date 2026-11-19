@@ -152,4 +152,4 @@ Questions? [Open an issue](../../issues) or check our
 
 ---
 
-Last updated: 2026-11-18 00:58:34 UTC
+Last updated: 2026-11-19 00:57:45 UTC
